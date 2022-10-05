@@ -1,0 +1,30 @@
+
+\edu.ncsu.monopoly.gui.CCCellInfoFormatter#format(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;_
+U/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java ("1*Â
+1_
+U/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java (.ÝÚ
+_
+U/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java1 (?
+%0java.lang.String"2edu.ncsu.monopoly.Cell#getName()Ljava/lang/String;* 
+
+celledu.ncsu.monopoly.Cell2	getName()Ã
+À
+_
+U/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java (?
+%1java.lang.String"__concat*!
+<html><font color='white'><b>*
+
+%0java.lang.String¸
+µ
+_
+U/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java (V
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+</b></font></html>"{
+_
+U/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/CCCellInfoFormatter.java (W
+
+%2java.lang.String:
+celledu.ncsu.monopoly.CellB-+
+)edu.ncsu.monopoly.gui.CCCellInfoFormatter

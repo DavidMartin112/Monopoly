@@ -1,0 +1,16 @@
+
+;edu.ncsu.monopoly.Cell#getOwner()Ledu/ncsu/monopoly/Player;L
+B/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/Cell.java ("1*ä
+1L
+B/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/Cell.java	 (ž
+›
+L
+B/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/Cell.java	 (
+%0edu.ncsu.monopoly.Player"__id*%*#
+edu.ncsu.monopoly.Cell"
+owner"p
+L
+B/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/Cell.java ( 
+
+%0edu.ncsu.monopoly.PlayerB
+edu.ncsu.monopoly.Cell

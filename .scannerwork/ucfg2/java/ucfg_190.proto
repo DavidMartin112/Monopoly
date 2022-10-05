@@ -1,0 +1,36 @@
+
+0edu.ncsu.monopoly.gui.MainWindow#getDiceRoll()[IV
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java] ]("1*ê	
+1V
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java^5 ^(9µ²
+V
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java^" ^(4.
+%0(edu.ncsu.monopoly.gui.TestDiceRollDialog"(edu.ncsu.monopoly.gui.TestDiceRollDialogý
+ú
+V
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java^ ^(:
+%1"Bedu.ncsu.monopoly.gui.TestDiceRollDialog#<init>(Ljava/awt/Frame;)V*0
+.
+%0(edu.ncsu.monopoly.gui.TestDiceRollDialog*$"
+ edu.ncsu.monopoly.gui.MainWindowÇ
+Ä
+V
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java^ ^(;2
+dialog(edu.ncsu.monopoly.gui.TestDiceRollDialog"__id*0
+.
+%0(edu.ncsu.monopoly.gui.TestDiceRollDialog¾»
+V
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java_ _(
+
+%2void"java.awt.Dialog#show()V*4
+2
+dialog(edu.ncsu.monopoly.gui.TestDiceRollDialog2show()çä
+V
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java`	 `(
+%3int[]"8edu.ncsu.monopoly.gui.TestDiceRollDialog#getDiceRoll()[I*4
+2
+dialog(edu.ncsu.monopoly.gui.TestDiceRollDialog2getDiceRoll()"`
+V
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java` `(
+""B$"
+ edu.ncsu.monopoly.gui.MainWindow

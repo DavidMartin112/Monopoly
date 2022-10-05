@@ -1,0 +1,48 @@
+
+Jedu.ncsu.monopoly.GameBoard#getPropertyNumberForColor(Ljava/lang/String;)IQ
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.javaM M(%"3*·
+2Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.javaP
+ P(´®
+Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.javaP
+ P(	
+%2int"java.lang.Integer#intValue()I*
+
+numberjava.lang.Integer2
+intValue()"[
+Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.javaP P(
+""*‘
+3Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.javaN N('©
+¶
+Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.javaN N('
+%0java.util.Hashtable"__id*0*.
+edu.ncsu.monopoly.GameBoard"
+colorGroups±
+Æ
+Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.javaN N(1
+%1java.lang.Object"__mapGet*
+
+%0java.util.Hashtable*
+
+namejava.lang.Stringì
+ê
+Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.javaN N(2
+numberjava.lang.Integer"__id*
+
+%1java.lang.Object*
+2
+1*≥
+1Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.javaR	 R(
+"[
+Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.javaR R(
+"":
+namejava.lang.StringB
+edu.ncsu.monopoly.GameBoard

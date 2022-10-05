@@ -1,0 +1,5 @@
+edu.ncsu.monopoly.GameMaster#btnRollDiceClicked()V
+java.lang.StringBuffer#append(Ljava/lang/Object;)Ljava/lang/StringBuffer;
+java.lang.StringBuffer#<init>()V
+java.lang.StringBuffer#toString()Ljava/lang/String;
+java.lang.StringBuffer#instance-init#

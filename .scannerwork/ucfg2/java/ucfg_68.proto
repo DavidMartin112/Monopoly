@@ -1,0 +1,16 @@
+
+7edu.ncsu.monopoly.JailCard#getLabel()Ljava/lang/String;P
+F/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/JailCard.java ("1*ê
+1P
+F/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/JailCard.java (: 
+«
+P
+F/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/JailCard.java (*
+%0java.lang.String"__concat*-+
+)Go to Jail immediately without collecting*" 
+ $200 when passing the GO cell"l
+P
+F/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/JailCard.java (+
+
+%0java.lang.StringB
+edu.ncsu.monopoly.JailCard

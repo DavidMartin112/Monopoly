@@ -1,0 +1,32 @@
+
+Qedu.ncsu.monopoly.gui.MainWindow#openTradeDialog()Ledu/ncsu/monopoly/TradeDialog;X
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java„ „(&"1*›
+1X
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java…3 …(7¯¬
+X
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java…$ …(2*
+%0$edu.ncsu.monopoly.gui.GUITradeDialog"$edu.ncsu.monopoly.gui.GUITradeDialog÷
+ô
+X
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java…  …(8
+%1">edu.ncsu.monopoly.gui.GUITradeDialog#<init>(Ljava/awt/Frame;)V*,
+*
+%0$edu.ncsu.monopoly.gui.GUITradeDialog*$"
+ edu.ncsu.monopoly.gui.MainWindowÁ
+¾
+X
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java… …(9.
+dialog$edu.ncsu.monopoly.gui.GUITradeDialog"__id*,
+*
+%0$edu.ncsu.monopoly.gui.GUITradeDialog¼¹
+X
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java† †(
+
+%2void"java.awt.Dialog#show()V*0
+.
+dialog$edu.ncsu.monopoly.gui.GUITradeDialog2show()"Œ
+X
+L/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/MainWindow.java‡ ‡(0
+.
+dialog$edu.ncsu.monopoly.gui.GUITradeDialogB$"
+ edu.ncsu.monopoly.gui.MainWindow

@@ -1,0 +1,45 @@
+
+Xedu.ncsu.monopoly.gui.InfoFormatter#cellInfo(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;Y
+O/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/InfoFormatter.java$ $(!"1*­
+
+1Y
+O/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/InfoFormatter.java&$ &(6À
+½
+Y
+O/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/InfoFormatter.java&$ &(6
+%0java.util.Hashtable"__id*?*=%
+#edu.ncsu.monopoly.gui.InfoFormatter"
+cellInfoFormattersÑÎ
+Y
+O/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/InfoFormatter.java&; &(J
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;* 
+
+celledu.ncsu.monopoly.Cell2
+getClass()¶
+³
+Y
+O/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/InfoFormatter.java&$ &(K
+%2java.lang.Object"__mapGet*
+
+%0java.util.Hashtable*
+
+%1java.lang.Class´
+±
+Y
+O/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/InfoFormatter.java% &(L4
+	formatter'edu.ncsu.monopoly.gui.CellInfoFormatter"__id*
+
+%2java.lang.ObjectÎË
+Y
+O/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/InfoFormatter.java' '(%
+%3java.lang.String"Zedu.ncsu.monopoly.gui.CellInfoFormatter#format(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;*6
+4
+	formatter'edu.ncsu.monopoly.gui.CellInfoFormatter* 
+
+celledu.ncsu.monopoly.Cell2 format(Ledu/ncsu/monopoly/Cell;)"u
+Y
+O/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/gui/InfoFormatter.java' '(&
+
+%3java.lang.String:
+celledu.ncsu.monopoly.CellB'"%
+#edu.ncsu.monopoly.gui.InfoFormatter

@@ -1,0 +1,25 @@
+
+>edu.ncsu.monopoly.GameBoard#getCell(I)Ledu/ncsu/monopoly/Cell;Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java4 4("1*™
+1Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java5 5(£
+ 
+Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java5 5(
+%0java.util.ArrayList"__id***(
+edu.ncsu.monopoly.GameBoard"
+cells¥
+¢
+Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java5 5("
+%1edu.ncsu.monopoly.Cell"
+__arrayGet*
+
+%0java.util.ArrayList*
+"""s
+Q
+G/home/vinci/git/Monopoly/src/main/java/edu/ncsu/monopoly/GameBoard.java5 5(#
+
+%1edu.ncsu.monopoly.Cell:
+""B
+edu.ncsu.monopoly.GameBoard

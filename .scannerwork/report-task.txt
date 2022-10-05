@@ -1,0 +1,7 @@
+organization=davidmartin112
+projectKey=MonopolydavidMartin112
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.32993
+dashboardUrl=https://sonarcloud.io/dashboard?id=MonopolydavidMartin112
+ceTaskId=AYOnLj7T_EfmZyhZyhQZ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYOnLj7T_EfmZyhZyhQZ
